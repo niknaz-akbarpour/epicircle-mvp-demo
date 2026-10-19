@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17285b"/><stop offset=".52" stop-color="#08101e"/><stop offset="1" stop-color="#103c45"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9b8cff"/><stop offset="1" stop-color="#4ee0c1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="42" fill="url(#bg)"/>
+  <circle cx="1040" cy="80" r="260" fill="#4ee0c1" opacity=".07"/>
+  <circle cx="140" cy="600" r="310" fill="#9b8cff" opacity=".09"/>
+  <rect x="76" y="70" width="74" height="74" rx="23" fill="#9b8cff"/>
+  <path d="M91 108h14l7-22 13 43 9-29 7 16h14" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="120" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="44" font-weight="700">EpiCircle</text>
+  <text x="76" y="260" fill="#f5f8ff" font-family="Arial, sans-serif" font-size="72" font-weight="700">Connected support from</text>
+  <text x="76" y="346" fill="url(#line)" font-family="Arial, sans-serif" font-size="72" font-weight="700">signal to recovery.</text>
+  <text x="78" y="425" fill="#aebdd1" font-family="Arial, sans-serif" font-size="28">Research-stage seizure-support product concept</text>
+  <rect x="78" y="500" width="480" height="50" rx="25" fill="#4ee0c1" opacity=".12" stroke="#4ee0c1" stroke-opacity=".45"/>
+  <text x="104" y="534" fill="#4ee0c1" font-family="Arial, sans-serif" font-size="20" font-weight="700">INTERACTIVE DEMO · RESEARCH USE ONLY</text>
+</svg>
